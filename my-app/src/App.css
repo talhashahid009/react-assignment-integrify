@@ -1,0 +1,20 @@
+.App {  
+  padding: 10rem;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.card{
+  align-items: center;
+  flex: 1 1 21rem;
+  margin: 10px 20px;
+  box-shadow: 0 0 20px black;
+  align-self: normal;
+}
+
+.avatar{
+  background-color: burlywood;
+}
